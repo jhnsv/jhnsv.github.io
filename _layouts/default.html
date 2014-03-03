@@ -18,8 +18,15 @@
         <div class="site">
           <div class="header">
             <h1 class="title"><a href="/">{{ site.name }}</a></h1>
-            <a class="extra" href="/">home</a>
-            <a class="extra" href="/about">about</a>
+
+          {% for p in site.pages %}
+        
+              <a {% if p.url == page.url %}class="active"{% endif %} href="{{ p.url }}">
+                {{ p.title }}
+              </a>
+        
+          {% endfor %}
+
           </div>
 
           {{ content }}
