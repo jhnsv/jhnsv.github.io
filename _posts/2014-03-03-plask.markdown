@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Plask!"
+date:   2014-03-03 09:45:31
+categories: plask
+---
+
+#Rock on!
+Yada yada yada ...
+
+Jekyll also offers powerful support for code snippets:
+
+{% highlight php %}
+<?php
+  echo "plask";
+?>
+{% endhighlight %}
