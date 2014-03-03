@@ -1,9 +1,12 @@
 ---
 layout: post
-title:  "Plask!"
-date:   2014-03-03 09:45:31
+title: "Plask!"
+date: {}
 categories: plask
+published: true
 ---
+
+![](/_posts/ember.jpeg)
 
 #Rock on!
 Yada yada yada ...
