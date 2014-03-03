@@ -8,6 +8,9 @@ categories: plask
 #Rock on!
 Yada yada yada ...
 
+* Bullet
+* Bull2
+
 Jekyll also offers powerful support for code snippets:
 
 {% highlight php %}
