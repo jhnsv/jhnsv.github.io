@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A dead crappy simple node.js chat with telnet"
-date: 2014-03-03 08:33:31
+date: 2014-03-06 20:37:00
 categories: nodejs
 published: true
 ---
