@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Plask!"
-date: {}
+date: 2014-03-03 08:33:31
 categories: plask
 published: true
 ---
