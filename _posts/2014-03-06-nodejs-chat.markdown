@@ -6,9 +6,6 @@ categories: nodejs
 published: true
 ---
 
-
-#A dead crappy simple node.js chat with telnet
-
 Stolen from http://www.youtube.com/watch?v=jo_B4LTHi3I
 
 Prerequisite: node.js installed
