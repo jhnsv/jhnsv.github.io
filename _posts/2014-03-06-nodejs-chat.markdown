@@ -1,10 +1,12 @@
 ---
 layout: post
-title: "A dead crappy simple node.js chat with telnet"
-date: 2014-03-06 20:37:00
+title: A dead crappy simple node.js chat with telnet
+date: {}
 categories: nodejs
 published: true
 ---
+
+![](/_posts/lorempixel.jpg)
 
 Stolen from http://www.youtube.com/watch?v=jo_B4LTHi3I
 
